@@ -6,11 +6,17 @@
 
 <p align="center">Bem-vindo ao repositório dos desafios do curso da Trilha em Dados do Programa Desenvolve (2024) da Boticário! Este espaço foi criado para centralizar e disponibilizar os desafios propostos ao longo do curso, utilizando dados fictícios.</p>
 
-# Conteúdo
+# Conteúdo da Trilha em Dados
 
 [Excel: domine o editor de planilhas]
 [Funções com excel: operações matemáticas e filtros]
 
+# Estrutura do Repositório
+O repositório está estruturado da seguinte forma:
+
+*Desafios*: Contém os desafios específicos, cada um em seu diretório individual. As instruções e dados relacionados a cada desafio estão organizados de maneira clara e acessível.
+
+*Dados*: Armazena os conjuntos de dados fictícios das empresas envolvidas nos desafios. Certifique-se de utilizar apenas os dados fornecidos aqui durante a resolução dos problemas.
 
 # Atenção
 Todos os dados disponíveis neste repositório são fictícios e não representam informações reais de empresas. Este ambiente foi criado exclusivamente para fins educacionais no âmbito do Programa Desenvolve da Boticário
