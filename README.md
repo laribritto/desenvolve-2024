@@ -6,10 +6,10 @@
 
 <p align="center">Bem-vindo ao repositório dos desafios do curso da Trilha em Dados do Programa Desenvolve (2024) da Boticário! Este espaço foi criado para centralizar e disponibilizar os desafios propostos ao longo do curso, utilizando dados fictícios.</p>
 
-# Conteúdo da Trilha em Dados
+# :hammer:Conteúdo da Trilha em Dados
 
-[Excel: domine o editor de planilhas]
-[Funções com excel: operações matemáticas e filtros]
+- `Excel: domine o editor de planilhas`
+- `Funções com excel: operações matemáticas e filtros`
 
 # Estrutura do Repositório
 O repositório está estruturado da seguinte forma:
