@@ -16,7 +16,7 @@ O repositório está estruturado da seguinte forma:
 
 **Desafios**: Contém os desafios específicos, cada um em seu diretório individual. As instruções e dados relacionados a cada desafio estão organizados de maneira clara e acessível.
 
-**Dados**: Armazena os conjuntos de dados fictícios dos desafios. 
+**Dados**: Os dados seguem um padrão de nomenclatura, sendo identificados como 'desafio-x-tipo', exemplo: 'desafio-1-excel'.
 
 # :warning: Atenção
 Todos os dados disponíveis neste repositório são fictícios e não representam informações reais de empresas. Este ambiente foi criado exclusivamente para fins educacionais no âmbito do Programa Desenvolve da Boticário.
