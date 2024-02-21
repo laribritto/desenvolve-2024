@@ -10,3 +10,7 @@
 
 [Excel: domine o editor de planilhas]
 [Funções com excel: operações matemáticas e filtros]
+
+
+# Atenção
+Todos os dados disponíveis neste repositório são fictícios e não representam informações reais de empresas. Este ambiente foi criado exclusivamente para fins educacionais no âmbito do Programa Desenvolve da Boticário
