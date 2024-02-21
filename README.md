@@ -20,4 +20,4 @@ O repositório está estruturado da seguinte forma:
 **Dados**: Armazena os conjuntos de dados fictícios dos desafios. 
 
 # :warning: Atenção
-Todos os dados disponíveis neste repositório são fictícios e não representam informações reais de empresas. Este ambiente foi criado exclusivamente para fins educacionais no âmbito do Programa Desenvolve da Boticário
+Todos os dados disponíveis neste repositório são fictícios e não representam informações reais de empresas. Este ambiente foi criado exclusivamente para fins educacionais no âmbito do Programa Desenvolve da Boticário.
