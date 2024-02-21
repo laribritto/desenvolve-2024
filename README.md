@@ -4,7 +4,7 @@
 # Desafios da Trilha em Dados - Programa Desenvolve (2024) da Boticário
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Bem-vindo ao repositório dos desafios do curso da Trilha em Dados do Programa Desenvolve (2024) da Boticário! O principal objetivo deste repositório é fornecer um ambiente organizado para a realização dos desafios propostos durante a Trilha em Dados
+Bem-vindo ao repositório dos desafios do curso da Trilha em Dados do Programa Desenvolve (2024) da Boticário! O principal objetivo deste repositório é fornecer um ambiente organizado para a realização dos desafios propostos durante a Trilha em Dados.
 
 # 📚 Conteúdo da Trilha em Dados
 
