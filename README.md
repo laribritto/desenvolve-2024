@@ -8,4 +8,5 @@
 
 # Conteúdo
 
-
+[Excel: domine o editor de planilhas]
+[Funções com excel: operações matemáticas e filtros]
