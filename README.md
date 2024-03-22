@@ -10,7 +10,7 @@ Bem-vindo ao repositório dos desafios do curso da Trilha em Dados do Programa D
 
 - `Excel: domine o editor de planilhas`
 - `Funções com excel: operações matemáticas e filtros`
-- `'Javascript e HTML: desenvolva um jogo e pratique lógica de programação
+- `Javascript e HTML: desenvolva um jogo e pratique lógica de programação
 
 # :file_folder: Estrutura do Repositório
 O repositório está estruturado da seguinte forma:
