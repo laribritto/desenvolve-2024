@@ -1,0 +1,39 @@
+<!-- Definindo a codificação de caracteres para UTF-8 -->
+<meta charset="UTF-8">
+
+<script>
+    // Função para adicionar duas linhas em branco
+    function pulaLinha() {
+        document.write("<br>");
+        document.write("<br>");
+    }
+
+    // Função para mostrar uma frase na tela, seguida de duas linhas em branco
+    function mostra(frase) {
+        document.write(frase);
+        pulaLinha();
+    }
+
+    // Função para gerar um número aleatório entre 0 e n (inclusivo)
+    function sorteia(n) {
+        return Math.round(Math.random() * n);
+    }
+
+    // Gera um número aleatório entre 0 e 100 (inclusivo) e atribui à variável numeroPensado
+    var numeroPensado = sorteia(100);  
+
+    // Imprime o número pensado no console do navegador
+    console.log(numeroPensado);
+
+    // Solicita ao usuário que insira um palpite
+    var chute = parseInt(prompt("Já pensei. Qual você acha que é?"));
+
+    // Compara o palpite do usuário com o número pensado e exibe mensagens correspondentes
+    if (chute == numeroPensado) {
+        mostra("Uau! Você acertou, pois eu pensei no " + numeroPensado);
+    } else if (chute > numeroPensado) {
+        mostra("O número que você escolheu é maior que o número sorteado!");
+    } else {
+        mostra("O número que você escolheu é menor que o número sorteado");
+    }
+</script>
